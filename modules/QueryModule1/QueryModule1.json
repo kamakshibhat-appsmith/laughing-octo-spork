@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67ca93bc1f2a756ddff9145d_de2f865d-3102-44bc-9dc5-fbebc065dfcf",
+  "moduleUUID": "3682affa-55e0-44e2-9e16-00ef666ea37f",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "1",
+            "id": "qoxzgvimcc",
+            "label": "input1",
+            "propertyName": "inputs.input1"
+          }
+        ],
+        "id": "jqrgdgoamp",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}
